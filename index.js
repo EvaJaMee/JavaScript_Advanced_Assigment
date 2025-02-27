@@ -75,9 +75,7 @@ const getAllIngredients = (Recipes) => {
 /* if (recipe) {
   console.log("Ingredients of 'Simmer-&-stir Christmas cake':");
   console.log(recipe.Ingredients);
-}
-  
-*/
+} */
 
 // Part 2
 
